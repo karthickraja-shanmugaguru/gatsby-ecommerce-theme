@@ -31,21 +31,21 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Say'}
-        subtitle={'Zero junk'}
-        ctaText={'shop now'}
+        title={'Pure Nutrition for Your Precious One'}
+        subtitle={'Wholesome Goodness for Growing Babies'}
+        ctaText={'Fill the Bowl Now'}
         ctaAction={goToShop}
       />
 
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+            Healthy Beginnings with{' '}
+          <span className={styles.gold}>சத்து மாவு (Sathu Maavu)</span>
         </p>
         <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
+                from{' '}
+          <span className={styles.gold}>Baby Bowl</span>
         </p>
       </div>
 
