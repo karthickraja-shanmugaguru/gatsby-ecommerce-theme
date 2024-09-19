@@ -30,7 +30,7 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/banner1.png'}
+        image={'/sathumaavu.jpg'}
         title={'Pure Nutrition for Your Precious One'}
         subtitle={'Wholesome Goodness for Growing Babies'}
         ctaText={'Fill the Bowl Now'}
